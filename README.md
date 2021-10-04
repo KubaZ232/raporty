@@ -1,3 +1,6 @@
+W razie konieczności projekt jest jako 
+$git push -u raporty2021 main
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
