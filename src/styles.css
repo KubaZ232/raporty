@@ -1,0 +1,58 @@
+
+html{
+  background-color: #C9CCD5;
+  margin: 13px;
+}
+ .App{
+  background-color: #C9CCD5;
+ }
+
+ .App_title{
+   letter-spacing: 6px;
+   text-align: center;
+   margin-bottom: 25px;
+   margin-top: 20px;
+ }
+
+ /* BREADCRUMB CSS */
+ .breadcrumb_containers_search_bar{
+  background-color: white;
+  padding: 30px;
+}
+ .breadcrumb_containers{
+   
+   padding: 20px;
+ }
+ .breadcrumb_container_inner_2{
+   padding-top: 30px;
+ }
+
+ .breadcrumb_containers_year{
+   border-bottom: 3px solid black;
+   text-align: center;
+ }
+ .breadcrumb_containers_input{
+   width: 70%;
+   display: grid !important;
+ }
+
+ /* TABLE POST CSS */
+
+ .tablepost_containers{
+   background-color: white;
+   margin-top: 40px;
+   padding: 30px;
+   
+ }
+
+ .tablepost_containers_date{
+   font-weight: 600;
+ }
+
+ .tablepost_containers_documentType{
+
+ }
+ .tablepost_containers_underline{
+   margin-top: 40px;
+   margin-bottom: 40px;
+ }
